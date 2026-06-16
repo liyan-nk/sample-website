@@ -2,9 +2,7 @@ function Hero() {
   return (
     <section className="hero">
       <h1>
-        Build Faster.
-        <br />
-        Scale Smarter.
+        Liyan Nechikaden
       </h1>
 
       <p>
