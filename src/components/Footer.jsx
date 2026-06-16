@@ -1,0 +1,9 @@
+function Footer() {
+  return (
+    <footer className="footer">
+      © 2026 Nexora. All rights reserved.
+    </footer>
+  );
+}
+
+export default Footer;
